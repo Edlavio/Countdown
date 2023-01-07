@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="shortcut icon" href="img/rocket-spaceship-start-svgrepo-com.svg" type="image/x-icon">
+  <link rel="stylesheet" href="css/style.css">
+  <!-- FONTS POPPINS -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700&display=swap" rel="stylesheet">
+  <title>Countdown</title>
+</head>
+<body>
+  <header>
+    <img src="img/top-image.svg" alt="top-image">
+  </header>
+  <main>
+    <div class="container">
+        <h2 class="title">READY TO LAUNCH IN...</h2>
+        <section class="countdown">
+          <article>
+            <p>Days</p>
+            <h3 id="day">00</h3>
+          </article>
+          <article>
+            <p>Hours</p>
+            <h3 id="hour">00</h3>
+          </article>
+          <article>
+            <p>Minutes</p>
+            <h3 id="minute">00</h3>
+          </article>
+          <article>
+            <p>Seconds</p>
+            <h3 id="second">00</h3>
+          </article>
+        </section>
+        <p class="phrase">Subscribe to find out more about the launch</p>
+        <button id="openBtn" class="btn">Subscribe</button>
+    </div>
+        <img class="rocket" src="img/rocket.svg" alt="Rocket">
+      
+      <dialog>
+        <form>
+          <span id="closeBtn">&#10005</span>
+          <input type="text" name="name" id="name" placeholder="Your name" required>
+          <input type="email" name="email" id="email" placeholder="email@example.com" required>
+          <button class="btn">Enviar</button>
+        </form>
+      </dialog>
+  </main>
+
+  <footer>
+    <img src="img/bottom-image.svg" alt="bottom-image">
+  </footer>
+  
+  <script src="js/app.js"></script>
+</body>
+</html>
