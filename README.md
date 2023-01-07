@@ -24,11 +24,9 @@ This is a solution to the [Countdown](https://efficient-sloth-d85.notion.site/De
 
 ### Screenshot
 
+## [Live Preview](https://edlavio.github.io/Countdown/)
+
 ![Alt text](./img/Countdown.png "Countdown Screenshot")
-
-### Links
-
-- [Live Demo](https://edlavio.github.io/Countdown/)
 
 ### Built with
 
