@@ -11,6 +11,7 @@ This is a solution to the [Countdown](https://efficient-sloth-d85.notion.site/De
   - [Built with](#built-with)
   - [Useful resources](#useful-resources)
 - [Author](#author)
+- [License](#license)
 
 
 ## Overview
@@ -46,3 +47,7 @@ This is a solution to the [Countdown](https://efficient-sloth-d85.notion.site/De
 
 - [GitHub](https://github.com/Edlavio)
 - [LinkedIn](https://linkedin.com/in/edlavio)
+
+ ### License
+ 
+ - [License](./LICENSE "License")
